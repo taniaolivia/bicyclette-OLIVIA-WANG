@@ -6,6 +6,12 @@
     <li>Ziyi WANG</li>
 </ol>
 
+<h1>Consignes d'installation</h1>
+<ol>
+    <li>Lancer le dossier application avec un serveur web type apache</li>
+    <li>dans le répertoire racine <code>bicyclette-OLIVIA-WANG</code> tapez la commande <code>chmod -R 777 data</code> sur terminal</li>
+    <li>Vous pouvez maitenant profiter de l'application</li>
+</ol>
 
 <h1>Lien utiles</h1>
 <address>
