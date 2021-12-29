@@ -1,0 +1,18 @@
+<!ELEMENT METEO (previsions)>
+<!ELEMENT previsions (echeance)* >
+<!ELEMENT echeance (temperature, pression, pluie, humidite, vent_moyen, risque_neige)>
+<!ELEMENT temperature  (level)>
+<!ELEMENT pression     (level)>
+<!ELEMENT pluie        (#PCDATA)>
+<!ELEMENT humidite     (level)>
+<!ELEMENT vent_moyen   (level)>
+<!ELEMENT risque_neige (#PCDATA) >
+<!ELEMENT level        (#PCDATA) >
+
+<!ATTLIST echeance
+                 hour          CDATA #REQUIRED
+                 timestamp     CDATA #REQUIRED>
+<!ATTLIST level
+                 val           CDATA #REQUIRED>
+<!ATTLIST pluie
+                 interval      CDATA #REQUIRED>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<query>
+  <status>success</status>
+  <country>France</country>
+  <countryCode>FR</countryCode>
+  <region>NOR</region>
+  <regionName>Normandy</regionName>
+  <city>Caen</city>
+  <zip>14000</zip>
+  <lat>49.1858</lat>
+  <lon>-0.35912</lon>
+  <timezone>Europe/Paris</timezone>
+  <isp>REZOCEAN</isp>
+  <org></org>
+  <as>AS198551 REZOCEAN SAS</as>
+  <query>185.226.17.22</query>
+</query>

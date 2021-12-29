@@ -1,0 +1,1029 @@
+<?xml version="1.0"?>
+<METEO>
+  <previsions>
+    <echeance hour="3" timestamp="2021-12-29 10:00:00 UTC">
+      <temperature>
+        <level val="2m">13.95</level>
+      </temperature>
+      <pression>
+        <level val="niveau_de_la_mer">1007.7</level>
+      </pression>
+      <pluie interval="3h">3.8</pluie>
+      <humidite>
+        <level val="2m">93.4</level>
+      </humidite>
+      <vent_moyen>
+        <level val="10m">31</level>
+      </vent_moyen>
+      <risque_neige>non</risque_neige>
+    </echeance>
+    <echeance hour="6" timestamp="2021-12-29 13:00:00 UTC">
+      <temperature>
+        <level val="2m">14.25</level>
+      </temperature>
+      <pression>
+        <level val="niveau_de_la_mer">1009.8</level>
+      </pression>
+      <pluie interval="3h">0</pluie>
+      <humidite>
+        <level val="2m">91</level>
+      </humidite>
+      <vent_moyen>
+        <level val="10m">30.9</level>
+      </vent_moyen>
+      <risque_neige>non</risque_neige>
+    </echeance>
+    <echeance hour="9" timestamp="2021-12-29 16:00:00 UTC">
+      <temperature>
+        <level val="2m">14.05</level>
+      </temperature>
+      <pression>
+        <level val="niveau_de_la_mer">1011.1</level>
+      </pression>
+      <pluie interval="3h">0</pluie>
+      <humidite>
+        <level val="2m">90</level>
+      </humidite>
+      <vent_moyen>
+        <level val="10m">26.3</level>
+      </vent_moyen>
+      <risque_neige>non</risque_neige>
+    </echeance>
+    <echeance hour="12" timestamp="2021-12-29 19:00:00 UTC">
+      <temperature>
+        <level val="2m">13.65</level>
+      </temperature>
+      <pression>
+        <level val="niveau_de_la_mer">1013.5</level>
+      </pression>
+      <pluie interval="3h">0</pluie>
+      <humidite>
+        <level val="2m">93.5</level>
+      </humidite>
+      <vent_moyen>
+        <level val="10m">22.4</level>
+      </vent_moyen>
+      <risque_neige>non</risque_neige>
+    </echeance>
+    <echeance hour="15" timestamp="2021-12-29 22:00:00 UTC">
+      <temperature>
+        <level val="2m">13.45</level>
+      </temperature>
+      <pression>
+        <level val="niveau_de_la_mer">1015.5</level>
+      </pression>
+      <pluie interval="3h">0</pluie>
+      <humidite>
+        <level val="2m">94.9</level>
+      </humidite>
+      <vent_moyen>
+        <level val="10m">23.3</level>
+      </vent_moyen>
+      <risque_neige>non</risque_neige>
+    </echeance>
+    <echeance hour="18" timestamp="2021-12-30 01:00:00 UTC">
+      <temperature>
+        <level val="2m">13.45</level>
+      </temperature>
+      <pression>
+        <level val="niveau_de_la_mer">1016.8</level>
+      </pression>
+      <pluie interval="3h">0</pluie>
+      <humidite>
+        <level val="2m">92.9</level>
+      </humidite>
+      <vent_moyen>
+        <level val="10m">25.2</level>
+      </vent_moyen>
+      <risque_neige>non</risque_neige>
+    </echeance>
+    <echeance hour="21" timestamp="2021-12-30 04:00:00 UTC">
+      <temperature>
+        <level val="2m">12.55</level>
+      </temperature>
+      <pression>
+        <level val="niveau_de_la_mer">1017.6</level>
+      </pression>
+      <pluie interval="3h">0</pluie>
+      <humidite>
+        <level val="2m">91.6</level>
+      </humidite>
+      <vent_moyen>
+        <level val="10m">23.6</level>
+      </vent_moyen>
+      <risque_neige>non</risque_neige>
+    </echeance>
+    <echeance hour="24" timestamp="2021-12-30 07:00:00 UTC">
+      <temperature>
+        <level val="2m">12.35</level>
+      </temperature>
+      <pression>
+        <level val="niveau_de_la_mer">1018.3</level>
+      </pression>
+      <pluie interval="3h">0</pluie>
+      <humidite>
+        <level val="2m">86.1</level>
+      </humidite>
+      <vent_moyen>
+        <level val="10m">23.8</level>
+      </vent_moyen>
+      <risque_neige>non</risque_neige>
+    </echeance>
+    <echeance hour="27" timestamp="2021-12-30 10:00:00 UTC">
+      <temperature>
+        <level val="2m">13.05</level>
+      </temperature>
+      <pression>
+        <level val="niveau_de_la_mer">1019.1</level>
+      </pression>
+      <pluie interval="3h">0</pluie>
+      <humidite>
+        <level val="2m">85.2</level>
+      </humidite>
+      <vent_moyen>
+        <level val="10m">22.8</level>
+      </vent_moyen>
+      <risque_neige>non</risque_neige>
+    </echeance>
+    <echeance hour="30" timestamp="2021-12-30 13:00:00 UTC">
+      <temperature>
+        <level val="2m">14.45</level>
+      </temperature>
+      <pression>
+        <level val="niveau_de_la_mer">1019.6</level>
+      </pression>
+      <pluie interval="3h">0</pluie>
+      <humidite>
+        <level val="2m">84.1</level>
+      </humidite>
+      <vent_moyen>
+        <level val="10m">23.1</level>
+      </vent_moyen>
+      <risque_neige>non</risque_neige>
+    </echeance>
+    <echeance hour="33" timestamp="2021-12-30 16:00:00 UTC">
+      <temperature>
+        <level val="2m">14.45</level>
+      </temperature>
+      <pression>
+        <level val="niveau_de_la_mer">1019.4</level>
+      </pression>
+      <pluie interval="3h">0</pluie>
+      <humidite>
+        <level val="2m">81.2</level>
+      </humidite>
+      <vent_moyen>
+        <level val="10m">22</level>
+      </vent_moyen>
+      <risque_neige>non</risque_neige>
+    </echeance>
+    <echeance hour="36" timestamp="2021-12-30 19:00:00 UTC">
+      <temperature>
+        <level val="2m">11.95</level>
+      </temperature>
+      <pression>
+        <level val="niveau_de_la_mer">1020.6</level>
+      </pression>
+      <pluie interval="3h">0</pluie>
+      <humidite>
+        <level val="2m">93.4</level>
+      </humidite>
+      <vent_moyen>
+        <level val="10m">16.3</level>
+      </vent_moyen>
+      <risque_neige>non</risque_neige>
+    </echeance>
+    <echeance hour="39" timestamp="2021-12-30 22:00:00 UTC">
+      <temperature>
+        <level val="2m">11.75</level>
+      </temperature>
+      <pression>
+        <level val="niveau_de_la_mer">1020.7</level>
+      </pression>
+      <pluie interval="3h">0</pluie>
+      <humidite>
+        <level val="2m">92.8</level>
+      </humidite>
+      <vent_moyen>
+        <level val="10m">20.4</level>
+      </vent_moyen>
+      <risque_neige>non</risque_neige>
+    </echeance>
+    <echeance hour="42" timestamp="2021-12-31 01:00:00 UTC">
+      <temperature>
+        <level val="2m">11.55</level>
+      </temperature>
+      <pression>
+        <level val="niveau_de_la_mer">1019.8</level>
+      </pression>
+      <pluie interval="3h">0</pluie>
+      <humidite>
+        <level val="2m">88.4</level>
+      </humidite>
+      <vent_moyen>
+        <level val="10m">22.6</level>
+      </vent_moyen>
+      <risque_neige>non</risque_neige>
+    </echeance>
+    <echeance hour="45" timestamp="2021-12-31 04:00:00 UTC">
+      <temperature>
+        <level val="2m">10.55</level>
+      </temperature>
+      <pression>
+        <level val="niveau_de_la_mer">1019.9</level>
+      </pression>
+      <pluie interval="3h">0</pluie>
+      <humidite>
+        <level val="2m">86.7</level>
+      </humidite>
+      <vent_moyen>
+        <level val="10m">21.4</level>
+      </vent_moyen>
+      <risque_neige>non</risque_neige>
+    </echeance>
+    <echeance hour="48" timestamp="2021-12-31 07:00:00 UTC">
+      <temperature>
+        <level val="2m">10.55</level>
+      </temperature>
+      <pression>
+        <level val="niveau_de_la_mer">1019.1</level>
+      </pression>
+      <pluie interval="3h">0</pluie>
+      <humidite>
+        <level val="2m">82.5</level>
+      </humidite>
+      <vent_moyen>
+        <level val="10m">18.2</level>
+      </vent_moyen>
+      <risque_neige>non</risque_neige>
+    </echeance>
+    <echeance hour="51" timestamp="2021-12-31 10:00:00 UTC">
+      <temperature>
+        <level val="2m">10.55</level>
+      </temperature>
+      <pression>
+        <level val="niveau_de_la_mer">1020.7</level>
+      </pression>
+      <pluie interval="3h">0</pluie>
+      <humidite>
+        <level val="2m">84.7</level>
+      </humidite>
+      <vent_moyen>
+        <level val="10m">17.1</level>
+      </vent_moyen>
+      <risque_neige>non</risque_neige>
+    </echeance>
+    <echeance hour="54" timestamp="2021-12-31 13:00:00 UTC">
+      <temperature>
+        <level val="2m">14.05</level>
+      </temperature>
+      <pression>
+        <level val="niveau_de_la_mer">1022.2</level>
+      </pression>
+      <pluie interval="3h">0</pluie>
+      <humidite>
+        <level val="2m">80.1</level>
+      </humidite>
+      <vent_moyen>
+        <level val="10m">20.4</level>
+      </vent_moyen>
+      <risque_neige>non</risque_neige>
+    </echeance>
+    <echeance hour="57" timestamp="2021-12-31 16:00:00 UTC">
+      <temperature>
+        <level val="2m">13.95</level>
+      </temperature>
+      <pression>
+        <level val="niveau_de_la_mer">1022</level>
+      </pression>
+      <pluie interval="3h">0</pluie>
+      <humidite>
+        <level val="2m">86.3</level>
+      </humidite>
+      <vent_moyen>
+        <level val="10m">15.9</level>
+      </vent_moyen>
+      <risque_neige>non</risque_neige>
+    </echeance>
+    <echeance hour="60" timestamp="2021-12-31 19:00:00 UTC">
+      <temperature>
+        <level val="2m">11.55</level>
+      </temperature>
+      <pression>
+        <level val="niveau_de_la_mer">1023.4</level>
+      </pression>
+      <pluie interval="3h">0</pluie>
+      <humidite>
+        <level val="2m">94</level>
+      </humidite>
+      <vent_moyen>
+        <level val="10m">10.3</level>
+      </vent_moyen>
+      <risque_neige>non</risque_neige>
+    </echeance>
+    <echeance hour="63" timestamp="2021-12-31 22:00:00 UTC">
+      <temperature>
+        <level val="2m">10.55</level>
+      </temperature>
+      <pression>
+        <level val="niveau_de_la_mer">1024</level>
+      </pression>
+      <pluie interval="3h">0</pluie>
+      <humidite>
+        <level val="2m">95.5</level>
+      </humidite>
+      <vent_moyen>
+        <level val="10m">9.8</level>
+      </vent_moyen>
+      <risque_neige>non</risque_neige>
+    </echeance>
+    <echeance hour="66" timestamp="2022-01-01 01:00:00 UTC">
+      <temperature>
+        <level val="2m">9.950000000000045</level>
+      </temperature>
+      <pression>
+        <level val="niveau_de_la_mer">1023.5</level>
+      </pression>
+      <pluie interval="3h">0</pluie>
+      <humidite>
+        <level val="2m">93.5</level>
+      </humidite>
+      <vent_moyen>
+        <level val="10m">10.8</level>
+      </vent_moyen>
+      <risque_neige>non</risque_neige>
+    </echeance>
+    <echeance hour="69" timestamp="2022-01-01 04:00:00 UTC">
+      <temperature>
+        <level val="2m">10.75</level>
+      </temperature>
+      <pression>
+        <level val="niveau_de_la_mer">1022.4</level>
+      </pression>
+      <pluie interval="3h">0</pluie>
+      <humidite>
+        <level val="2m">87.3</level>
+      </humidite>
+      <vent_moyen>
+        <level val="10m">13.9</level>
+      </vent_moyen>
+      <risque_neige>non</risque_neige>
+    </echeance>
+    <echeance hour="72" timestamp="2022-01-01 07:00:00 UTC">
+      <temperature>
+        <level val="2m">10.95</level>
+      </temperature>
+      <pression>
+        <level val="niveau_de_la_mer">1021.9</level>
+      </pression>
+      <pluie interval="3h">0</pluie>
+      <humidite>
+        <level val="2m">78.6</level>
+      </humidite>
+      <vent_moyen>
+        <level val="10m">19</level>
+      </vent_moyen>
+      <risque_neige>non</risque_neige>
+    </echeance>
+    <echeance hour="75" timestamp="2022-01-01 10:00:00 UTC">
+      <temperature>
+        <level val="2m">10.75</level>
+      </temperature>
+      <pression>
+        <level val="niveau_de_la_mer">1022.3</level>
+      </pression>
+      <pluie interval="3h">0</pluie>
+      <humidite>
+        <level val="2m">70.9</level>
+      </humidite>
+      <vent_moyen>
+        <level val="10m">17.6</level>
+      </vent_moyen>
+      <risque_neige>non</risque_neige>
+    </echeance>
+    <echeance hour="78" timestamp="2022-01-01 13:00:00 UTC">
+      <temperature>
+        <level val="2m">13.35</level>
+      </temperature>
+      <pression>
+        <level val="niveau_de_la_mer">1022.4</level>
+      </pression>
+      <pluie interval="3h">0</pluie>
+      <humidite>
+        <level val="2m">66.2</level>
+      </humidite>
+      <vent_moyen>
+        <level val="10m">17.9</level>
+      </vent_moyen>
+      <risque_neige>non</risque_neige>
+    </echeance>
+    <echeance hour="81" timestamp="2022-01-01 16:00:00 UTC">
+      <temperature>
+        <level val="2m">14.15</level>
+      </temperature>
+      <pression>
+        <level val="niveau_de_la_mer">1021.5</level>
+      </pression>
+      <pluie interval="3h">0</pluie>
+      <humidite>
+        <level val="2m">75.5</level>
+      </humidite>
+      <vent_moyen>
+        <level val="10m">20.2</level>
+      </vent_moyen>
+      <risque_neige>non</risque_neige>
+    </echeance>
+    <echeance hour="84" timestamp="2022-01-01 19:00:00 UTC">
+      <temperature>
+        <level val="2m">12.95</level>
+      </temperature>
+      <pression>
+        <level val="niveau_de_la_mer">1021.8</level>
+      </pression>
+      <pluie interval="3h">0</pluie>
+      <humidite>
+        <level val="2m">78.9</level>
+      </humidite>
+      <vent_moyen>
+        <level val="10m">25.9</level>
+      </vent_moyen>
+      <risque_neige>non</risque_neige>
+    </echeance>
+    <echeance hour="87" timestamp="2022-01-01 22:00:00 UTC">
+      <temperature>
+        <level val="2m">12.35</level>
+      </temperature>
+      <pression>
+        <level val="niveau_de_la_mer">1022.3</level>
+      </pression>
+      <pluie interval="3h">0</pluie>
+      <humidite>
+        <level val="2m">84.8</level>
+      </humidite>
+      <vent_moyen>
+        <level val="10m">24.1</level>
+      </vent_moyen>
+      <risque_neige>non</risque_neige>
+    </echeance>
+    <echeance hour="90" timestamp="2022-01-02 01:00:00 UTC">
+      <temperature>
+        <level val="2m">12.15</level>
+      </temperature>
+      <pression>
+        <level val="niveau_de_la_mer">1021.4</level>
+      </pression>
+      <pluie interval="3h">0.1</pluie>
+      <humidite>
+        <level val="2m">88</level>
+      </humidite>
+      <vent_moyen>
+        <level val="10m">21.4</level>
+      </vent_moyen>
+      <risque_neige>non</risque_neige>
+    </echeance>
+    <echeance hour="93" timestamp="2022-01-02 04:00:00 UTC">
+      <temperature>
+        <level val="2m">12.75</level>
+      </temperature>
+      <pression>
+        <level val="niveau_de_la_mer">1019.9</level>
+      </pression>
+      <pluie interval="3h">0.1</pluie>
+      <humidite>
+        <level val="2m">86.4</level>
+      </humidite>
+      <vent_moyen>
+        <level val="10m">24.7</level>
+      </vent_moyen>
+      <risque_neige>non</risque_neige>
+    </echeance>
+    <echeance hour="96" timestamp="2022-01-02 07:00:00 UTC">
+      <temperature>
+        <level val="2m">11.35</level>
+      </temperature>
+      <pression>
+        <level val="niveau_de_la_mer">1018.9</level>
+      </pression>
+      <pluie interval="3h">0</pluie>
+      <humidite>
+        <level val="2m">88.5</level>
+      </humidite>
+      <vent_moyen>
+        <level val="10m">27.5</level>
+      </vent_moyen>
+      <risque_neige>non</risque_neige>
+    </echeance>
+    <echeance hour="99" timestamp="2022-01-02 10:00:00 UTC">
+      <temperature>
+        <level val="2m">11.95</level>
+      </temperature>
+      <pression>
+        <level val="niveau_de_la_mer">1018.6</level>
+      </pression>
+      <pluie interval="3h">1</pluie>
+      <humidite>
+        <level val="2m">89.1</level>
+      </humidite>
+      <vent_moyen>
+        <level val="10m">29.2</level>
+      </vent_moyen>
+      <risque_neige>non</risque_neige>
+    </echeance>
+    <echeance hour="102" timestamp="2022-01-02 13:00:00 UTC">
+      <temperature>
+        <level val="2m">12.15</level>
+      </temperature>
+      <pression>
+        <level val="niveau_de_la_mer">1019</level>
+      </pression>
+      <pluie interval="3h">0.6</pluie>
+      <humidite>
+        <level val="2m">85.1</level>
+      </humidite>
+      <vent_moyen>
+        <level val="10m">27.6</level>
+      </vent_moyen>
+      <risque_neige>non</risque_neige>
+    </echeance>
+    <echeance hour="105" timestamp="2022-01-02 16:00:00 UTC">
+      <temperature>
+        <level val="2m">11.55</level>
+      </temperature>
+      <pression>
+        <level val="niveau_de_la_mer">1019.2</level>
+      </pression>
+      <pluie interval="3h">0.1</pluie>
+      <humidite>
+        <level val="2m">85.4</level>
+      </humidite>
+      <vent_moyen>
+        <level val="10m">23.1</level>
+      </vent_moyen>
+      <risque_neige>non</risque_neige>
+    </echeance>
+    <echeance hour="108" timestamp="2022-01-02 19:00:00 UTC">
+      <temperature>
+        <level val="2m">8.950000000000045</level>
+      </temperature>
+      <pression>
+        <level val="niveau_de_la_mer">1020.5</level>
+      </pression>
+      <pluie interval="3h">0</pluie>
+      <humidite>
+        <level val="2m">93.4</level>
+      </humidite>
+      <vent_moyen>
+        <level val="10m">12.7</level>
+      </vent_moyen>
+      <risque_neige>non</risque_neige>
+    </echeance>
+    <echeance hour="111" timestamp="2022-01-02 22:00:00 UTC">
+      <temperature>
+        <level val="2m">8.950000000000045</level>
+      </temperature>
+      <pression>
+        <level val="niveau_de_la_mer">1021.4</level>
+      </pression>
+      <pluie interval="3h">0</pluie>
+      <humidite>
+        <level val="2m">91.3</level>
+      </humidite>
+      <vent_moyen>
+        <level val="10m">21.1</level>
+      </vent_moyen>
+      <risque_neige>non</risque_neige>
+    </echeance>
+    <echeance hour="114" timestamp="2022-01-03 01:00:00 UTC">
+      <temperature>
+        <level val="2m">8.650000000000034</level>
+      </temperature>
+      <pression>
+        <level val="niveau_de_la_mer">1022</level>
+      </pression>
+      <pluie interval="3h">0</pluie>
+      <humidite>
+        <level val="2m">92.3</level>
+      </humidite>
+      <vent_moyen>
+        <level val="10m">25.5</level>
+      </vent_moyen>
+      <risque_neige>non</risque_neige>
+    </echeance>
+    <echeance hour="117" timestamp="2022-01-03 04:00:00 UTC">
+      <temperature>
+        <level val="2m">9.450000000000045</level>
+      </temperature>
+      <pression>
+        <level val="niveau_de_la_mer">1022.1</level>
+      </pression>
+      <pluie interval="3h">0</pluie>
+      <humidite>
+        <level val="2m">86.2</level>
+      </humidite>
+      <vent_moyen>
+        <level val="10m">23.6</level>
+      </vent_moyen>
+      <risque_neige>non</risque_neige>
+    </echeance>
+    <echeance hour="120" timestamp="2022-01-03 07:00:00 UTC">
+      <temperature>
+        <level val="2m">9.350000000000023</level>
+      </temperature>
+      <pression>
+        <level val="niveau_de_la_mer">1021.5</level>
+      </pression>
+      <pluie interval="3h">0</pluie>
+      <humidite>
+        <level val="2m">84.3</level>
+      </humidite>
+      <vent_moyen>
+        <level val="10m">19.2</level>
+      </vent_moyen>
+      <risque_neige>non</risque_neige>
+    </echeance>
+    <echeance hour="123" timestamp="2022-01-03 10:00:00 UTC">
+      <temperature>
+        <level val="2m">8.050000000000011</level>
+      </temperature>
+      <pression>
+        <level val="niveau_de_la_mer">1021.6</level>
+      </pression>
+      <pluie interval="3h">0</pluie>
+      <humidite>
+        <level val="2m">93.2</level>
+      </humidite>
+      <vent_moyen>
+        <level val="10m">13.9</level>
+      </vent_moyen>
+      <risque_neige>non</risque_neige>
+    </echeance>
+    <echeance hour="126" timestamp="2022-01-03 13:00:00 UTC">
+      <temperature>
+        <level val="2m">10.05</level>
+      </temperature>
+      <pression>
+        <level val="niveau_de_la_mer">1020.4</level>
+      </pression>
+      <pluie interval="3h">0</pluie>
+      <humidite>
+        <level val="2m">83.9</level>
+      </humidite>
+      <vent_moyen>
+        <level val="10m">15.3</level>
+      </vent_moyen>
+      <risque_neige>non</risque_neige>
+    </echeance>
+    <echeance hour="129" timestamp="2022-01-03 16:00:00 UTC">
+      <temperature>
+        <level val="2m">8.850000000000023</level>
+      </temperature>
+      <pression>
+        <level val="niveau_de_la_mer">1017.5</level>
+      </pression>
+      <pluie interval="3h">0.6</pluie>
+      <humidite>
+        <level val="2m">87.8</level>
+      </humidite>
+      <vent_moyen>
+        <level val="10m">12</level>
+      </vent_moyen>
+      <risque_neige>non</risque_neige>
+    </echeance>
+    <echeance hour="132" timestamp="2022-01-03 19:00:00 UTC">
+      <temperature>
+        <level val="2m">8.850000000000023</level>
+      </temperature>
+      <pression>
+        <level val="niveau_de_la_mer">1013.1</level>
+      </pression>
+      <pluie interval="3h">1.6</pluie>
+      <humidite>
+        <level val="2m">89.5</level>
+      </humidite>
+      <vent_moyen>
+        <level val="10m">20.9</level>
+      </vent_moyen>
+      <risque_neige>non</risque_neige>
+    </echeance>
+    <echeance hour="135" timestamp="2022-01-03 22:00:00 UTC">
+      <temperature>
+        <level val="2m">9.450000000000045</level>
+      </temperature>
+      <pression>
+        <level val="niveau_de_la_mer">1004.9</level>
+      </pression>
+      <pluie interval="3h">9.9</pluie>
+      <humidite>
+        <level val="2m">92.6</level>
+      </humidite>
+      <vent_moyen>
+        <level val="10m">37.1</level>
+      </vent_moyen>
+      <risque_neige>non</risque_neige>
+    </echeance>
+    <echeance hour="138" timestamp="2022-01-04 01:00:00 UTC">
+      <temperature>
+        <level val="2m">11.75</level>
+      </temperature>
+      <pression>
+        <level val="niveau_de_la_mer">998.6</level>
+      </pression>
+      <pluie interval="3h">5.7</pluie>
+      <humidite>
+        <level val="2m">91.3</level>
+      </humidite>
+      <vent_moyen>
+        <level val="10m">38.2</level>
+      </vent_moyen>
+      <risque_neige>non</risque_neige>
+    </echeance>
+    <echeance hour="141" timestamp="2022-01-04 04:00:00 UTC">
+      <temperature>
+        <level val="2m">9.950000000000045</level>
+      </temperature>
+      <pression>
+        <level val="niveau_de_la_mer">994.7</level>
+      </pression>
+      <pluie interval="3h">0.3</pluie>
+      <humidite>
+        <level val="2m">92.2</level>
+      </humidite>
+      <vent_moyen>
+        <level val="10m">56.8</level>
+      </vent_moyen>
+      <risque_neige>non</risque_neige>
+    </echeance>
+    <echeance hour="144" timestamp="2022-01-04 07:00:00 UTC">
+      <temperature>
+        <level val="2m">8.150000000000034</level>
+      </temperature>
+      <pression>
+        <level val="niveau_de_la_mer">1002.3</level>
+      </pression>
+      <pluie interval="3h">0</pluie>
+      <humidite>
+        <level val="2m">87.1</level>
+      </humidite>
+      <vent_moyen>
+        <level val="10m">33.2</level>
+      </vent_moyen>
+      <risque_neige>non</risque_neige>
+    </echeance>
+    <echeance hour="147" timestamp="2022-01-04 10:00:00 UTC">
+      <temperature>
+        <level val="2m">8.25</level>
+      </temperature>
+      <pression>
+        <level val="niveau_de_la_mer">1006.2</level>
+      </pression>
+      <pluie interval="3h">0.1</pluie>
+      <humidite>
+        <level val="2m">85.7</level>
+      </humidite>
+      <vent_moyen>
+        <level val="10m">23.3</level>
+      </vent_moyen>
+      <risque_neige>non</risque_neige>
+    </echeance>
+    <echeance hour="150" timestamp="2022-01-04 13:00:00 UTC">
+      <temperature>
+        <level val="2m">9.050000000000011</level>
+      </temperature>
+      <pression>
+        <level val="niveau_de_la_mer">1008.5</level>
+      </pression>
+      <pluie interval="3h">0.3</pluie>
+      <humidite>
+        <level val="2m">80.4</level>
+      </humidite>
+      <vent_moyen>
+        <level val="10m">24.9</level>
+      </vent_moyen>
+      <risque_neige>non</risque_neige>
+    </echeance>
+    <echeance hour="153" timestamp="2022-01-04 16:00:00 UTC">
+      <temperature>
+        <level val="2m">8.25</level>
+      </temperature>
+      <pression>
+        <level val="niveau_de_la_mer">1009.9</level>
+      </pression>
+      <pluie interval="3h">0.4</pluie>
+      <humidite>
+        <level val="2m">83.3</level>
+      </humidite>
+      <vent_moyen>
+        <level val="10m">20.5</level>
+      </vent_moyen>
+      <risque_neige>non</risque_neige>
+    </echeance>
+    <echeance hour="156" timestamp="2022-01-04 19:00:00 UTC">
+      <temperature>
+        <level val="2m">6.350000000000023</level>
+      </temperature>
+      <pression>
+        <level val="niveau_de_la_mer">1012.4</level>
+      </pression>
+      <pluie interval="3h">0.2</pluie>
+      <humidite>
+        <level val="2m">92</level>
+      </humidite>
+      <vent_moyen>
+        <level val="10m">8.5</level>
+      </vent_moyen>
+      <risque_neige>non</risque_neige>
+    </echeance>
+    <echeance hour="159" timestamp="2022-01-04 22:00:00 UTC">
+      <temperature>
+        <level val="2m">5.050000000000011</level>
+      </temperature>
+      <pression>
+        <level val="niveau_de_la_mer">1014.3</level>
+      </pression>
+      <pluie interval="3h">0</pluie>
+      <humidite>
+        <level val="2m">90.6</level>
+      </humidite>
+      <vent_moyen>
+        <level val="10m">4.3</level>
+      </vent_moyen>
+      <risque_neige>non</risque_neige>
+    </echeance>
+    <echeance hour="162" timestamp="2022-01-05 01:00:00 UTC">
+      <temperature>
+        <level val="2m">3.850000000000023</level>
+      </temperature>
+      <pression>
+        <level val="niveau_de_la_mer">1015.7</level>
+      </pression>
+      <pluie interval="3h">0</pluie>
+      <humidite>
+        <level val="2m">91.8</level>
+      </humidite>
+      <vent_moyen>
+        <level val="10m">2.6</level>
+      </vent_moyen>
+      <risque_neige>non</risque_neige>
+    </echeance>
+    <echeance hour="165" timestamp="2022-01-05 04:00:00 UTC">
+      <temperature>
+        <level val="2m">3.550000000000011</level>
+      </temperature>
+      <pression>
+        <level val="niveau_de_la_mer">1016.6</level>
+      </pression>
+      <pluie interval="3h">0</pluie>
+      <humidite>
+        <level val="2m">94.1</level>
+      </humidite>
+      <vent_moyen>
+        <level val="10m">2.6</level>
+      </vent_moyen>
+      <risque_neige>non</risque_neige>
+    </echeance>
+    <echeance hour="168" timestamp="2022-01-05 07:00:00 UTC">
+      <temperature>
+        <level val="2m">4.450000000000045</level>
+      </temperature>
+      <pression>
+        <level val="niveau_de_la_mer">1018.2</level>
+      </pression>
+      <pluie interval="3h">0</pluie>
+      <humidite>
+        <level val="2m">95.8</level>
+      </humidite>
+      <vent_moyen>
+        <level val="10m">7.1</level>
+      </vent_moyen>
+      <risque_neige>non</risque_neige>
+    </echeance>
+    <echeance hour="171" timestamp="2022-01-05 10:00:00 UTC">
+      <temperature>
+        <level val="2m">5.25</level>
+      </temperature>
+      <pression>
+        <level val="niveau_de_la_mer">1020.5</level>
+      </pression>
+      <pluie interval="3h">0</pluie>
+      <humidite>
+        <level val="2m">93.5</level>
+      </humidite>
+      <vent_moyen>
+        <level val="10m">10.4</level>
+      </vent_moyen>
+      <risque_neige>non</risque_neige>
+    </echeance>
+    <echeance hour="174" timestamp="2022-01-05 13:00:00 UTC">
+      <temperature>
+        <level val="2m">6.150000000000034</level>
+      </temperature>
+      <pression>
+        <level val="niveau_de_la_mer">1022</level>
+      </pression>
+      <pluie interval="3h">0.1</pluie>
+      <humidite>
+        <level val="2m">84.9</level>
+      </humidite>
+      <vent_moyen>
+        <level val="10m">19.5</level>
+      </vent_moyen>
+      <risque_neige>non</risque_neige>
+    </echeance>
+    <echeance hour="177" timestamp="2022-01-05 16:00:00 UTC">
+      <temperature>
+        <level val="2m">5.050000000000011</level>
+      </temperature>
+      <pression>
+        <level val="niveau_de_la_mer">1022.8</level>
+      </pression>
+      <pluie interval="3h">0.1</pluie>
+      <humidite>
+        <level val="2m">79</level>
+      </humidite>
+      <vent_moyen>
+        <level val="10m">16</level>
+      </vent_moyen>
+      <risque_neige>non</risque_neige>
+    </echeance>
+    <echeance hour="180" timestamp="2022-01-05 19:00:00 UTC">
+      <temperature>
+        <level val="2m">1.550000000000011</level>
+      </temperature>
+      <pression>
+        <level val="niveau_de_la_mer">1025.2</level>
+      </pression>
+      <pluie interval="3h">0</pluie>
+      <humidite>
+        <level val="2m">82.9</level>
+      </humidite>
+      <vent_moyen>
+        <level val="10m">14.5</level>
+      </vent_moyen>
+      <risque_neige>non</risque_neige>
+    </echeance>
+    <echeance hour="183" timestamp="2022-01-05 22:00:00 UTC">
+      <temperature>
+        <level val="2m">0.25</level>
+      </temperature>
+      <pression>
+        <level val="niveau_de_la_mer">1027.8</level>
+      </pression>
+      <pluie interval="3h">0</pluie>
+      <humidite>
+        <level val="2m">83.3</level>
+      </humidite>
+      <vent_moyen>
+        <level val="10m">17</level>
+      </vent_moyen>
+      <risque_neige>non</risque_neige>
+    </echeance>
+    <echeance hour="186" timestamp="2022-01-06 01:00:00 UTC">
+      <temperature>
+        <level val="2m">-1.949999999999989</level>
+      </temperature>
+      <pression>
+        <level val="niveau_de_la_mer">1029.6</level>
+      </pression>
+      <pluie interval="3h">0</pluie>
+      <humidite>
+        <level val="2m">72.8</level>
+      </humidite>
+      <vent_moyen>
+        <level val="10m">11.9</level>
+      </vent_moyen>
+      <risque_neige>non</risque_neige>
+    </echeance>
+    <echeance hour="189" timestamp="2022-01-06 04:00:00 UTC">
+      <temperature>
+        <level val="2m">-2.149999999999977</level>
+      </temperature>
+      <pression>
+        <level val="niveau_de_la_mer">1030.8</level>
+      </pression>
+      <pluie interval="3h">0</pluie>
+      <humidite>
+        <level val="2m">67.5</level>
+      </humidite>
+      <vent_moyen>
+        <level val="10m">8.2</level>
+      </vent_moyen>
+      <risque_neige>non</risque_neige>
+    </echeance>
+    <echeance hour="192" timestamp="2022-01-06 07:00:00 UTC">
+      <temperature>
+        <level val="2m">-1.349999999999966</level>
+      </temperature>
+      <pression>
+        <level val="niveau_de_la_mer">1030.7</level>
+      </pression>
+      <pluie interval="3h">0</pluie>
+      <humidite>
+        <level val="2m">71.3</level>
+      </humidite>
+      <vent_moyen>
+        <level val="10m">5.1</level>
+      </vent_moyen>
+      <risque_neige>non</risque_neige>
+    </echeance>
+  </previsions>
+</METEO>

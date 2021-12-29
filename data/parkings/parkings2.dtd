@@ -1,0 +1,20 @@
+<!ELEMENT PARKING (carto)>
+<!ELEMENT carto (markers, stations) >
+<!ELEMENT markers (marker)*>
+<!ELEMENT stations (station)*>
+<!ELEMENT marker  (#PCDATA)>
+<!ELEMENT station  (available, free, total)>
+<!ELEMENT available  (#PCDATA)>
+<!ELEMENT free  (#PCDATA)>
+<!ELEMENT total  (#PCDATA)>
+
+<!ATTLIST marker
+                 name                 CDATA #REQUIRED
+                 number               CDATA #REQUIRED
+                 station              IDREF #REQUIRED
+                 address              CDATA #REQUIRED
+                 lat                  CDATA #REQUIRED
+                 lng                  CDATA #REQUIRED>
+
+<!ATTLIST station
+                 ID                 ID #REQUIRED>

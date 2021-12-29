@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css"
+          integrity="sha512-xodZBNTC5n17Xt2atTPuE1HxjVMSvLVW9ocqUKLsCC5CXdbqCmblAshOMAS6/keqq/sMZMZ19scR4PsZChSR7A=="
+          crossorigin=""/>
+    <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"
+            integrity="sha512-XQoYMqMTK8LvdxXYG3nZ448hOEQiglfqkJs1NOQV44cWnUrBc8PkAOcXy20w0vlaXaVUearIOBhiXZ5V3ynxwA=="
+            crossorigin=""></script>
+</head>
+<body>
+    <div class="row">
+        <div class="col-lg-8 col-md-8" id="map" style="height: 500px;"></div>
+        <div class="col-lg-4 col-md-4" id="container">
+            <h4><b><u>Informations sur les marquers</u></b></h4>
+            <div id="text">
+                <p><img src="./img/marker-icon-2x-gold.png" style="height: 50px;"> <b>: Votre position</b></p>
+                <p><img src="./img/marker-icon-2x-violet.png" style="height: 50px;"> <b>: Position d'autres addresses</b></p>
+                <p><img src="./img/marker-icon-2x-red.png" style="height: 50px;"> <b>: Position des parkings du vélo</b></p>
+            </div>
+        </div>
+    </div>
+    <script src="./js/map.js" type="text/javascript"></script>
+</body>
+</html>

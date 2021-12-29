@@ -1,0 +1,9 @@
+<!ELEMENT PARKING_INFO (stations)>
+<!ELEMENT stations (station)* >
+<!ELEMENT station (available, free, total)>
+<!ELEMENT available  (#PCDATA)>
+<!ELEMENT free  (#PCDATA)>
+<!ELEMENT total  (#PCDATA)>
+
+<!ATTLIST station
+                 ID                 ID #REQUIRED>
