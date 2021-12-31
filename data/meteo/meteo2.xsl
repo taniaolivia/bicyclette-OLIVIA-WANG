@@ -30,10 +30,10 @@
     <xsl:template match="echeance">
             <div class="col-lg-3 col-md-3 card0">
                 <div class="card1">
-                    <div class="text-center"> <img class="image mt-5" src="https://i.imgur.com/M8VyA2h.png"/> </div>
+                    <div class="text-center"> <img class="image mt-0" src="https://i.imgur.com/M8VyA2h.png"/> </div>
                     <div class="px-5 mt-1 meteoinfo">
-                        <h1 class="large-font mr-3"><xsl:value-of select="format-number(number(temperature/level), '#.##')"/>&#176;</h1>
-                        <div class="d-flex flex-column mr-3">
+                        <h1 class="large-font mr-0"><xsl:value-of select="format-number(number(temperature/level), '#.##')"/>&#176;</h1>
+                        <div class="d-flex flex-column mr-0">
                             <h5><xsl:value-of select="substring(@timestamp, 9, 2)"/>-<xsl:value-of select="substring(@timestamp, 6, 2)"/>-<xsl:value-of select="substring(@timestamp, 1, 4)"/></h5>
                             <h5><xsl:value-of select="substring(@timestamp, 11, 3)"/>h<xsl:value-of select="substring(@timestamp, 15, 2)"/></h5>
                         </div>
@@ -57,8 +57,8 @@
                     </div>
                 </div>
                 <div class="card2">
-                    <div class="mr-5">
-                        <p>Weather Details</p>
+                    <div class="">
+                        <p>Détails Météo</p>
                         <div class="row px-3">
                             <p class="light-text">Humidité</p>
                             <p class="ml-auto"><xsl:value-of select="humidite/level"/>%</p>
