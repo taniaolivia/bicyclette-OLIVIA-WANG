@@ -18,9 +18,7 @@
             <body>
                 <div class="container-fluid px-1 px-sm-3 py-5 mx-auto">
                 <div class="row d-flex justify-content-center">
-
                     <xsl:apply-templates select="METEO/previsions/echeance"/>
-
                 </div>
                 </div>
             </body>
@@ -28,6 +26,7 @@
     </xsl:template>
 
     <xsl:template match="echeance">
+        <xsl:if test="substring(@timestamp, 11, 3) = 07 or substring(@timestamp, 11, 3) = 10 or substring(@timestamp, 11, 3) = 16 or substring(@timestamp, 11, 3) = 22">
             <div class="col-lg-3 col-md-3 card0">
                 <div class="card1">
                     <div class="text-center"> <img class="image mt-0" src="https://i.imgur.com/M8VyA2h.png"/> </div>
@@ -79,6 +78,7 @@
                     </div>
                 </div>
             </div>
+        </xsl:if>
     </xsl:template>
 
 </xsl:stylesheet>

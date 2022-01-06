@@ -48,6 +48,20 @@ $stringxml = $xslt->transformToXML($xml2);
 $convertedXML = simplexml_load_string($stringxml);
 $convertedXML->saveXML("data/meteo/meteo1.xml");
 
+
+$xml3 = new DOMDocument();
+$xml3->load('data/meteo/meteo1.xml');
+
+$xsl2 = new DOMDocument();
+$xsl2->load('data/meteo/meteo2.xsl');
+
+$xslt2 = new XSLTProcessor();
+$xslt2->importStylesheet($xsl2);
+
+$html = $xslt2->transformToXML($xml3);
+file_put_contents('html/meteo.html', $html);
+
+
 include "html/map.html";
 include "html/meteo.html";
 
