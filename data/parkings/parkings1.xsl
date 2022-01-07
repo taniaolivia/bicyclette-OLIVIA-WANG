@@ -9,7 +9,7 @@
                 <markers>
                     <xsl:apply-templates select="carto/markers/marker"/>
                 </markers>
-                <xsl:apply-templates select="document('stations1.xml')/PARKING_INFO/stations"/>
+                <xsl:apply-templates select="document('../stations/stations1.xml')/PARKING_INFO/stations"/>
             </carto>
         </PARKING>
     </xsl:template>

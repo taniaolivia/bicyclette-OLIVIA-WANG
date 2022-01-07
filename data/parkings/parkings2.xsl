@@ -21,7 +21,7 @@
             <xsl:attribute name="number">
                 <xsl:value-of select="@number"/>
             </xsl:attribute>
-            <xsl:attribute name="Station">
+            <xsl:attribute name="station">
                 <xsl:value-of select="@station"/>
             </xsl:attribute>
             <xsl:attribute name="address">

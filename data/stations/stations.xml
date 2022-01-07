@@ -1,309 +1,341 @@
-<?xml version="1.0" encoding="utf-8"?>
-<stations>
-<station>
-  <available>8</available>
-  <free>20</free>
-  <total>28</total>
-  <ticket>1</ticket>
-  <open>1</open>
-  <updated>1640783886</updated>
-  <connected>1</connected>
-</station>
-<station>
-  <available>2</available>
-  <free>14</free>
-  <total>16</total>
-  <ticket>1</ticket>
-  <open>1</open>
-  <updated>1640784066</updated>
-  <connected>1</connected>
-</station>
-<station>
-  <available>21</available>
-  <free>7</free>
-  <total>28</total>
-  <ticket>1</ticket>
-  <open>1</open>
-  <updated>1640784066</updated>
-  <connected>1</connected>
-</station>
-<station>
-  <available>3</available>
-  <free>15</free>
-  <total>18</total>
-  <ticket>1</ticket>
-  <open>1</open>
-  <updated>1640784066</updated>
-  <connected>1</connected>
-</station>
-<station>
-  <available>3</available>
-  <free>13</free>
-  <total>16</total>
-  <ticket>1</ticket>
-  <open>1</open>
-  <updated>1640784066</updated>
-  <connected>1</connected>
-</station>
-<station>
-  <available>4</available>
-  <free>12</free>
-  <total>16</total>
-  <ticket>1</ticket>
-  <open>1</open>
-  <updated>1640784066</updated>
-  <connected>1</connected>
-</station>
-<station>
-  <available>8</available>
-  <free>12</free>
-  <total>20</total>
-  <ticket>1</ticket>
-  <open>1</open>
-  <updated>1640783886</updated>
-  <connected>1</connected>
-</station>
-<station>
-  <available>5</available>
-  <free>13</free>
-  <total>18</total>
-  <ticket>1</ticket>
-  <open>1</open>
-  <updated>1640784066</updated>
-  <connected>1</connected>
-</station>
-<station>
-  <available>5</available>
-  <free>12</free>
-  <total>17</total>
-  <ticket>1</ticket>
-  <open>1</open>
-  <updated>1640784066</updated>
-  <connected>1</connected>
-</station>
-<station>
-  <available>17</available>
-  <free>13</free>
-  <total>30</total>
-  <ticket>1</ticket>
-  <open>1</open>
-  <updated>1640784066</updated>
-  <connected>1</connected>
-</station>
-<station>
-  <available>19</available>
-  <free>9</free>
-  <total>28</total>
-  <ticket>1</ticket>
-  <open>1</open>
-  <updated>1640784066</updated>
-  <connected>1</connected>
-</station>
-<station>
-  <available>6</available>
-  <free>16</free>
-  <total>22</total>
-  <ticket>1</ticket>
-  <open>1</open>
-  <updated>1640784066</updated>
-  <connected>1</connected>
-</station>
-<station>
-  <available>4</available>
-  <free>12</free>
-  <total>16</total>
-  <ticket>0</ticket>
-  <open>1</open>
-  <updated>1640783886</updated>
-  <connected>1</connected>
-</station>
-<station>
-  <available>3</available>
-  <free>16</free>
-  <total>19</total>
-  <ticket>1</ticket>
-  <open>1</open>
-  <updated>1640784066</updated>
-  <connected>1</connected>
-</station>
-<station>
-  <available>6</available>
-  <free>10</free>
-  <total>16</total>
-  <ticket>0</ticket>
-  <open>1</open>
-  <updated>1640784066</updated>
-  <connected>1</connected>
-</station>
-<station>
-  <available>2</available>
-  <free>18</free>
-  <total>20</total>
-  <ticket>1</ticket>
-  <open>1</open>
-  <updated>1640784066</updated>
-  <connected>1</connected>
-</station>
-<station>
-  <available>7</available>
-  <free>8</free>
-  <total>15</total>
-  <ticket>0</ticket>
-  <open>1</open>
-  <updated>1640784066</updated>
-  <connected>1</connected>
-</station>
+<?xml version="1.0" encoding="utf-8"?><stations>
 <station>
   <available>12</available>
-  <free>8</free>
-  <total>20</total>
-  <ticket>1</ticket>
-  <open>1</open>
-  <updated>1640784066</updated>
-  <connected>1</connected>
-</station>
-<station>
-  <available>11</available>
-  <free>7</free>
-  <total>18</total>
-  <ticket>0</ticket>
-  <open>1</open>
-  <updated>1640784066</updated>
-  <connected>1</connected>
-</station>
-<station>
-  <available>4</available>
-  <free>11</free>
-  <total>15</total>
-  <ticket>0</ticket>
-  <open>1</open>
-  <updated>1640784066</updated>
-  <connected>1</connected>
-</station>
-<station>
-  <available>12</available>
-  <free>8</free>
-  <total>20</total>
-  <ticket>1</ticket>
-  <open>1</open>
-  <updated>1640784067</updated>
-  <connected>1</connected>
-</station>
-<station>
-  <available>5</available>
-  <free>11</free>
-  <total>16</total>
-  <ticket>0</ticket>
-  <open>1</open>
-  <updated>1640784067</updated>
-  <connected>1</connected>
-</station>
-<station>
-  <available>4</available>
-  <free>12</free>
-  <total>16</total>
-  <ticket>0</ticket>
-  <open>1</open>
-  <updated>1640783886</updated>
-  <connected>1</connected>
-</station>
-<station>
-  <available>7</available>
   <free>16</free>
-  <total>23</total>
+  <total>28</total>
   <ticket>1</ticket>
   <open>1</open>
-  <updated>1640784067</updated>
+  <updated>1641589566</updated>
   <connected>1</connected>
 </station>
+
+<station>
+  <available>8</available>
+  <free>8</free>
+  <total>16</total>
+  <ticket>1</ticket>
+  <open>1</open>
+  <updated>1641589746</updated>
+  <connected>1</connected>
+</station>
+
 <station>
   <available>14</available>
-  <free>4</free>
-  <total>18</total>
-  <ticket>0</ticket>
+  <free>14</free>
+  <total>28</total>
+  <ticket>1</ticket>
   <open>1</open>
-  <updated>1640784067</updated>
+  <updated>1641589566</updated>
   <connected>1</connected>
 </station>
+
 <station>
-  <available>10</available>
-  <free>5</free>
-  <total>15</total>
-  <ticket>0</ticket>
+  <available>1</available>
+  <free>17</free>
+  <total>18</total>
+  <ticket>1</ticket>
   <open>1</open>
-  <updated>1640784067</updated>
+  <updated>1641589746</updated>
   <connected>1</connected>
 </station>
+
+<station>
+  <available>8</available>
+  <free>8</free>
+  <total>16</total>
+  <ticket>1</ticket>
+  <open>1</open>
+  <updated>1641589566</updated>
+  <connected>1</connected>
+</station>
+
+<station>
+  <available>1</available>
+  <free>15</free>
+  <total>16</total>
+  <ticket>1</ticket>
+  <open>1</open>
+  <updated>1641589746</updated>
+  <connected>1</connected>
+</station>
+
+<station>
+  <available>6</available>
+  <free>14</free>
+  <total>20</total>
+  <ticket>1</ticket>
+  <open>1</open>
+  <updated>1641589566</updated>
+  <connected>1</connected>
+</station>
+
 <station>
   <available>9</available>
   <free>9</free>
   <total>18</total>
   <ticket>1</ticket>
   <open>1</open>
-  <updated>1640784067</updated>
+  <updated>1641589746</updated>
   <connected>1</connected>
 </station>
+
 <station>
-  <available>10</available>
-  <free>5</free>
+  <available>3</available>
+  <free>14</free>
+  <total>17</total>
+  <ticket>1</ticket>
+  <open>1</open>
+  <updated>1641589566</updated>
+  <connected>1</connected>
+</station>
+
+<station>
+  <available>27</available>
+  <free>3</free>
+  <total>30</total>
+  <ticket>1</ticket>
+  <open>1</open>
+  <updated>1641589746</updated>
+  <connected>1</connected>
+</station>
+
+<station>
+  <available>17</available>
+  <free>11</free>
+  <total>28</total>
+  <ticket>1</ticket>
+  <open>1</open>
+  <updated>1641589746</updated>
+  <connected>1</connected>
+</station>
+
+<station>
+  <available>7</available>
+  <free>15</free>
+  <total>22</total>
+  <ticket>1</ticket>
+  <open>1</open>
+  <updated>1641589746</updated>
+  <connected>1</connected>
+</station>
+
+<station>
+  <available>3</available>
+  <free>13</free>
+  <total>16</total>
+  <ticket>0</ticket>
+  <open>1</open>
+  <updated>1641589566</updated>
+  <connected>1</connected>
+</station>
+
+<station>
+  <available>12</available>
+  <free>7</free>
+  <total>19</total>
+  <ticket>1</ticket>
+  <open>1</open>
+  <updated>1641589746</updated>
+  <connected>1</connected>
+</station>
+
+<station>
+  <available>2</available>
+  <free>14</free>
+  <total>16</total>
+  <ticket>0</ticket>
+  <open>1</open>
+  <updated>1641589746</updated>
+  <connected>1</connected>
+</station>
+
+<station>
+  <available>1</available>
+  <free>19</free>
+  <total>20</total>
+  <ticket>1</ticket>
+  <open>1</open>
+  <updated>1641589746</updated>
+  <connected>1</connected>
+</station>
+
+<station>
+  <available>3</available>
+  <free>12</free>
   <total>15</total>
   <ticket>0</ticket>
   <open>1</open>
-  <updated>1640784067</updated>
+  <updated>1641589566</updated>
   <connected>1</connected>
 </station>
+
 <station>
-  <available>18</available>
-  <free>6</free>
-  <total>24</total>
+  <available>13</available>
+  <free>7</free>
+  <total>20</total>
   <ticket>1</ticket>
   <open>1</open>
-  <updated>1640784067</updated>
+  <updated>1641589746</updated>
   <connected>1</connected>
 </station>
+
+<station>
+  <available>13</available>
+  <free>5</free>
+  <total>18</total>
+  <ticket>0</ticket>
+  <open>1</open>
+  <updated>1641589566</updated>
+  <connected>1</connected>
+</station>
+
+<station>
+  <available>0</available>
+  <free>15</free>
+  <total>15</total>
+  <ticket>0</ticket>
+  <open>1</open>
+  <updated>1641589746</updated>
+  <connected>1</connected>
+</station>
+
+<station>
+  <available>9</available>
+  <free>11</free>
+  <total>20</total>
+  <ticket>1</ticket>
+  <open>1</open>
+  <updated>1641589746</updated>
+  <connected>1</connected>
+</station>
+
+<station>
+  <available>6</available>
+  <free>10</free>
+  <total>16</total>
+  <ticket>0</ticket>
+  <open>1</open>
+  <updated>1641589746</updated>
+  <connected>1</connected>
+</station>
+
+<station>
+  <available>0</available>
+  <free>16</free>
+  <total>16</total>
+  <ticket>0</ticket>
+  <open>1</open>
+  <updated>1641589566</updated>
+  <connected>1</connected>
+</station>
+
+<station>
+  <available>8</available>
+  <free>15</free>
+  <total>23</total>
+  <ticket>1</ticket>
+  <open>1</open>
+  <updated>1641589746</updated>
+  <connected>1</connected>
+</station>
+
+<station>
+  <available>13</available>
+  <free>5</free>
+  <total>18</total>
+  <ticket>0</ticket>
+  <open>1</open>
+  <updated>1641589566</updated>
+  <connected>1</connected>
+</station>
+
 <station>
   <available>7</available>
   <free>8</free>
   <total>15</total>
-  <ticket>1</ticket>
+  <ticket>0</ticket>
   <open>1</open>
-  <updated>1640784067</updated>
+  <updated>1641589746</updated>
   <connected>1</connected>
 </station>
+
+<station>
+  <available>10</available>
+  <free>8</free>
+  <total>18</total>
+  <ticket>1</ticket>
+  <open>1</open>
+  <updated>1641589746</updated>
+  <connected>1</connected>
+</station>
+
+<station>
+  <available>7</available>
+  <free>8</free>
+  <total>15</total>
+  <ticket>0</ticket>
+  <open>1</open>
+  <updated>1641589746</updated>
+  <connected>1</connected>
+</station>
+
+<station>
+  <available>19</available>
+  <free>5</free>
+  <total>24</total>
+  <ticket>1</ticket>
+  <open>1</open>
+  <updated>1641589746</updated>
+  <connected>1</connected>
+</station>
+
 <station>
   <available>4</available>
   <free>11</free>
   <total>15</total>
   <ticket>1</ticket>
   <open>1</open>
-  <updated>1640784067</updated>
+  <updated>1641589746</updated>
   <connected>1</connected>
 </station>
+
+<station>
+  <available>2</available>
+  <free>13</free>
+  <total>15</total>
+  <ticket>1</ticket>
+  <open>1</open>
+  <updated>1641589566</updated>
+  <connected>1</connected>
+</station>
+
 <station>
   <available>7</available>
   <free>8</free>
   <total>15</total>
   <ticket>1</ticket>
   <open>1</open>
-  <updated>1640784067</updated>
+  <updated>1641589746</updated>
   <connected>1</connected>
 </station>
+
 <station>
   <available>5</available>
   <free>10</free>
   <total>15</total>
   <ticket>1</ticket>
   <open>1</open>
-  <updated>1640783886</updated>
+  <updated>1641589566</updated>
   <connected>1</connected>
 </station>
+
 <station>
-  <available>4</available>
-  <free>11</free>
+  <available>6</available>
+  <free>9</free>
   <total>15</total>
   <ticket>1</ticket>
   <open>1</open>
-  <updated>1640784067</updated>
+  <updated>1641589746</updated>
   <connected>1</connected>
 </station>
 </stations>

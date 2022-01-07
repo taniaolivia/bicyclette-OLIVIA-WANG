@@ -2,241 +2,241 @@
 <PARKING>
   <carto>
     <markers>
-      <marker name="00027 - NANCY THERMAL (CB)" number="27" Station="s27" address="Rue du Sergent Blandan" lat="48.6794397" lng="6.1674761">
+      <marker name="00027 - NANCY THERMAL (CB)" number="27" station="s27" address="Rue du Sergent Blandan" lat="48.6794397" lng="6.1674761">
         <station ID="s27">
-          <available>9</available>
-          <free>9</free>
+          <available>10</available>
+          <free>8</free>
           <total>18</total>
         </station>
       </marker>
-      <marker name="00028 - MARCH&#xC9; D'HAUSSONVILLE" number="28" Station="s28" address="Boulevard d'Haussonville" lat="48.67227619793021" lng="6.165710709115886">
+      <marker name="00028 - MARCH&#xC9; D'HAUSSONVILLE" number="28" station="s28" address="Boulevard d'Haussonville" lat="48.67227619793021" lng="6.165710709115886">
         <station ID="s28">
-          <available>10</available>
-          <free>5</free>
+          <available>7</available>
+          <free>8</free>
           <total>15</total>
         </station>
       </marker>
-      <marker name="00029 - VELODROME (CB)" number="29" Station="s29" address="Place du V&#xE9;lodrome" lat="48.666721193896" lng="6.16661978303466">
+      <marker name="00029 - VELODROME (CB)" number="29" station="s29" address="Place du V&#xE9;lodrome" lat="48.666721193896" lng="6.16661978303466">
         <station ID="s29">
-          <available>18</available>
-          <free>6</free>
+          <available>19</available>
+          <free>5</free>
           <total>24</total>
         </station>
       </marker>
-      <marker name="00026 - BAUDRICOURT HAUSSONVILLE" number="26" Station="s26" address="Rue des 3 Epis Baudricourt" lat="48.675248491826174" lng="6.162844844269929">
+      <marker name="00026 - BAUDRICOURT HAUSSONVILLE" number="26" station="s26" address="Rue des 3 Epis Baudricourt" lat="48.675248491826174" lng="6.162844844269929">
         <station ID="s26">
-          <available>10</available>
-          <free>5</free>
+          <available>7</available>
+          <free>8</free>
           <total>15</total>
         </station>
       </marker>
-      <marker name="00032 - MEDREVILLE (CB)" number="32" Station="s32" address="en face du 1 Boulevard Charlemagne Nancy" lat="48.685497" lng="6.161015">
+      <marker name="00032 - MEDREVILLE (CB)" number="32" station="s32" address="en face du 1 Boulevard Charlemagne Nancy" lat="48.685497" lng="6.161015">
         <station ID="s32">
           <available>7</available>
           <free>8</free>
           <total>15</total>
         </station>
       </marker>
-      <marker name="00033 - LAXOU MAIRIE (CB)" number="33" Station="s33" address="9 rue Paul D&#xE9;roul&#xE8;de" lat="48.684954" lng="6.154908">
+      <marker name="00033 - LAXOU MAIRIE (CB)" number="33" station="s33" address="9 rue Paul D&#xE9;roul&#xE8;de" lat="48.684954" lng="6.154908">
         <station ID="s33">
           <available>5</available>
           <free>10</free>
           <total>15</total>
         </station>
       </marker>
-      <marker name="00034 - MALZEVILLE (CB)" number="34" Station="s34" address="Square Waldstetten  en face du 6 rue Maurice Barr&#xE8;s MALZEVILLE" lat="48.707187" lng="6.185524">
+      <marker name="00034 - MALZEVILLE (CB)" number="34" station="s34" address="Square Waldstetten  en face du 6 rue Maurice Barr&#xE8;s MALZEVILLE" lat="48.707187" lng="6.185524">
         <station ID="s34">
-          <available>4</available>
-          <free>11</free>
+          <available>6</available>
+          <free>9</free>
           <total>15</total>
         </station>
       </marker>
-      <marker name="00031 - ARTEM (CB)" number="31" Station="s31" address="en face du 119 rue du Sergent Blandan" lat="48.674665" lng="6.170655">
+      <marker name="00031 - ARTEM (CB)" number="31" station="s31" address="en face du 119 rue du Sergent Blandan" lat="48.674665" lng="6.170655">
         <station ID="s31">
+          <available>2</available>
+          <free>13</free>
+          <total>15</total>
+        </station>
+      </marker>
+      <marker name="00030 - NATIONS (CB)" number="30" station="s30" address="au milieu du boulevard des Nations &#xA0;&#xE0; Vandoeuvre dans le prolongement de l&#x2019;arr&#xEA;t de bus Nations devant le centre commercial" lat="48.662356" lng="6.173442">
+        <station ID="s30">
           <available>4</available>
           <free>11</free>
           <total>15</total>
         </station>
       </marker>
-      <marker name="00030 - NATIONS (CB)" number="30" Station="s30" address="au milieu du boulevard des Nations &#xA0;&#xE0; Vandoeuvre dans le prolongement de l&#x2019;arr&#xEA;t de bus Nations devant le centre commercial" lat="48.662356" lng="6.173442">
-        <station ID="s30">
-          <available>7</available>
-          <free>8</free>
-          <total>15</total>
-        </station>
-      </marker>
-      <marker name="00014 - FAC DE LETTRES (CB)" number="14" Station="s14" address="Place Godefroy de Bouillon" lat="48.6928180794454" lng="6.16860978784457">
+      <marker name="00014 - FAC DE LETTRES (CB)" number="14" station="s14" address="Place Godefroy de Bouillon" lat="48.6928180794454" lng="6.16860978784457">
         <station ID="s14">
-          <available>3</available>
-          <free>16</free>
+          <available>12</available>
+          <free>7</free>
           <total>19</total>
         </station>
       </marker>
-      <marker name="00020 - PLACE DES VOSGES" number="20" Station="s20" address="Angle avenue du G&#xE9;n&#xE9;ral Leclerc et rue du Mar&#xE9;chal De Lattre de Tassigny" lat="48.684781" lng="6.187631">
+      <marker name="00020 - PLACE DES VOSGES" number="20" station="s20" address="Angle avenue du G&#xE9;n&#xE9;ral Leclerc et rue du Mar&#xE9;chal De Lattre de Tassigny" lat="48.684781" lng="6.187631">
         <station ID="s20">
-          <available>4</available>
-          <free>11</free>
-          <total>15</total>
-        </station>
-      </marker>
-      <marker name="00025 - PLACE COMMANDERIE" number="25" Station="s25" address="Place de la Commanderie - Face au n&#xB0;13" lat="48.6859179816784" lng="6.1674218161464">
-        <station ID="s25">
-          <available>14</available>
-          <free>4</free>
-          <total>18</total>
-        </station>
-      </marker>
-      <marker name="00013 - SAINT NICOLAS - CHARLES III" number="13" Station="s13" address="71 rue Saint-Nicolas" lat="48.688015" lng="6.187451">
-        <station ID="s13">
-          <available>4</available>
-          <free>12</free>
-          <total>16</total>
-        </station>
-      </marker>
-      <marker name="00004 - MARCHE CENTRAL (CB)" number="4" Station="s4" address="Angle rue Saint-Dizier - Rue du Dr SCHMITT" lat="48.6891733257851" lng="6.18390463043762">
-        <station ID="s4">
-          <available>3</available>
+          <available>0</available>
           <free>15</free>
-          <total>18</total>
-        </station>
-      </marker>
-      <marker name="00018 - GARE SAINT LEON (CB)" number="18" Station="s18" address="Angle rue Saint-L&#xE9;on - Esplanade Saint-L&#xE9;on" lat="48.689560111075" lng="6.17251545229862">
-        <station ID="s18">
-          <available>12</available>
-          <free>8</free>
-          <total>20</total>
-        </station>
-      </marker>
-      <marker name="00015 - PORT STE CATHERINE" number="15" Station="s15" address="Angle rue Henri BAZIN et quai Sainte-Catherine" lat="48.6954870039528" lng="6.1906794896667">
-        <station ID="s15">
-          <available>6</available>
-          <free>10</free>
-          <total>16</total>
-        </station>
-      </marker>
-      <marker name="00017 - CONSERVATOIRE - MANUFACTURE" number="17" Station="s17" address="27 rue Baron Louis - Angle quai Claude le Lorrain" lat="48.6957176856775" lng="6.17133838702303">
-        <station ID="s17">
-          <available>7</available>
-          <free>8</free>
           <total>15</total>
         </station>
       </marker>
-      <marker name="00005 - PLACE COLONEL DRIANT (CB)" number="5" Station="s5" address="Rue Drouin - Face au n&#xB0;2" lat="48.6921301" lng="6.1872695">
-        <station ID="s5">
+      <marker name="00025 - PLACE COMMANDERIE" number="25" station="s25" address="Place de la Commanderie - Face au n&#xB0;13" lat="48.6859179816784" lng="6.1674218161464">
+        <station ID="s25">
+          <available>13</available>
+          <free>5</free>
+          <total>18</total>
+        </station>
+      </marker>
+      <marker name="00013 - SAINT NICOLAS - CHARLES III" number="13" station="s13" address="71 rue Saint-Nicolas" lat="48.688015" lng="6.187451">
+        <station ID="s13">
           <available>3</available>
           <free>13</free>
           <total>16</total>
         </station>
       </marker>
-      <marker name="00024 - 3 MAISONS - CHARLES V (CB)" number="24" Station="s24" address="rue du faubourg des 3 Maisons - Angle boulevard Charles V" lat="48.701365" lng="6.176824">
-        <station ID="s24">
-          <available>7</available>
-          <free>16</free>
-          <total>23</total>
-        </station>
-      </marker>
-      <marker name="00006 - LES 2 RIVES (CB)" number="6" Station="s6" address="2 rue Emilie du Ch&#xE2;telet" lat="48.695420147586" lng="6.19522861327582">
-        <station ID="s6">
-          <available>4</available>
-          <free>12</free>
-          <total>16</total>
-        </station>
-      </marker>
-      <marker name="00009 - PLACE BARROIS (CB)" number="9" Station="s9" address="Place Barrois" lat="48.69950232851108" lng="6.204735639873545">
-        <station ID="s9">
-          <available>5</available>
-          <free>12</free>
-          <total>17</total>
-        </station>
-      </marker>
-      <marker name="00007 - PLACE ST EPVRE  (CB)" number="7" Station="s7" address="Place du Colonel Fabien" lat="48.6952351" lng="6.1798109">
-        <station ID="s7">
-          <available>8</available>
-          <free>12</free>
-          <total>20</total>
-        </station>
-      </marker>
-      <marker name="00023 - PROMENADE DES CANAUX" number="23" Station="s23" address="Promenade des Canaux" lat="48.6927939742599" lng="6.19628435757015">
-        <station ID="s23">
-          <available>4</available>
-          <free>12</free>
-          <total>16</total>
-        </station>
-      </marker>
-      <marker name="00012 - ST SEBASTIEN - ST THIEBAUT (CB)" number="12" Station="s12" address="Angle rue Saint-Thiebaut et rue du Grand Rabbin HAGUENAUER" lat="48.6886141256403" lng="6.17950010441818">
-        <station ID="s12">
-          <available>6</available>
-          <free>16</free>
-          <total>22</total>
-        </station>
-      </marker>
-      <marker name="00021 - HOPITAL CENTRAL (CB)" number="21" Station="s21" address="45 avenue du Mar&#xE9;chal de Lattre de Tassigny" lat="48.6833502130976" lng="6.19029660801914">
-        <station ID="s21">
-          <available>12</available>
-          <free>8</free>
-          <total>20</total>
-        </station>
-      </marker>
-      <marker name="00019 - COMMANDERIE - CHALNOT" number="19" Station="s19" address="Angle rue Pierre CHALNOT et rue de la Commanderie" lat="48.6869197241039" lng="6.17234789239391">
-        <station ID="s19">
-          <available>11</available>
-          <free>7</free>
+      <marker name="00004 - MARCHE CENTRAL (CB)" number="4" station="s4" address="Angle rue Saint-Dizier - Rue du Dr SCHMITT" lat="48.6891733257851" lng="6.18390463043762">
+        <station ID="s4">
+          <available>1</available>
+          <free>17</free>
           <total>18</total>
         </station>
       </marker>
-      <marker name="00016 - PORTE DE LA CRAFFE (CB)" number="16" Station="s16" address="Angle rue du Haut Bourgeois et place des Bourgets" lat="48.6984724451821" lng="6.17798553705909">
-        <station ID="s16">
-          <available>2</available>
-          <free>18</free>
+      <marker name="00018 - GARE SAINT LEON (CB)" number="18" station="s18" address="Angle rue Saint-L&#xE9;on - Esplanade Saint-L&#xE9;on" lat="48.689560111075" lng="6.17251545229862">
+        <station ID="s18">
+          <available>13</available>
+          <free>7</free>
           <total>20</total>
         </station>
       </marker>
-      <marker name="00001 - DOMINICAINS - FOURRIER (CB)" number="1" Station="s1" address="Angle rue Pierre FOURRIER et rue des Dominicains" lat="48.6924654452072" lng="6.18340055389445">
-        <station ID="s1">
-          <available>8</available>
-          <free>20</free>
-          <total>28</total>
-        </station>
-      </marker>
-      <marker name="00011 - MAZAGRAN - FOCH (CB)" number="11" Station="s11" address="Boulevard Foch" lat="48.6894760345252" lng="6.17650546239553">
-        <station ID="s11">
-          <available>19</available>
-          <free>9</free>
-          <total>28</total>
-        </station>
-      </marker>
-      <marker name="00022 - HOPITAL ST JULIEN" number="22" Station="s22" address="Angle rue Molitor et rue Foller" lat="48.6858574026886" lng="6.19290171469907">
-        <station ID="s22">
-          <available>5</available>
-          <free>11</free>
-          <total>16</total>
-        </station>
-      </marker>
-      <marker name="00003 - PLACE DE DOMBASLE (CB)" number="3" Station="s3" address="Rue Stanislas - Face au n&#xB0;68" lat="48.6919579483934" lng="6.17851021950761">
-        <station ID="s3">
-          <available>21</available>
-          <free>7</free>
-          <total>28</total>
-        </station>
-      </marker>
-      <marker name="00008 - COURS LEOPOLD - SAINT MICHEL (CB)" number="8" Station="s8" address="Angle rue Saint-Michel et cours L&#xE9;opold" lat="48.6956140662607" lng="6.17676840786255">
-        <station ID="s8">
-          <available>5</available>
-          <free>13</free>
-          <total>18</total>
-        </station>
-      </marker>
-      <marker name="00002 - PLACE DE LA CARRIERE (CB)" number="2" Station="s2" address="Angle Place de la Carri&#xE8;re et rue des Mar&#xE9;chaux" lat="48.6945981637388" lng="6.18229408637817">
-        <station ID="s2">
+      <marker name="00015 - PORT STE CATHERINE" number="15" station="s15" address="Angle rue Henri BAZIN et quai Sainte-Catherine" lat="48.6954870039528" lng="6.1906794896667">
+        <station ID="s15">
           <available>2</available>
           <free>14</free>
           <total>16</total>
         </station>
       </marker>
-      <marker name="00010 - GARE THIERS (CB)" number="10" Station="s10" address="Rue Mazagran" lat="48.69037" lng="6.175677">
-        <station ID="s10">
+      <marker name="00017 - CONSERVATOIRE - MANUFACTURE" number="17" station="s17" address="27 rue Baron Louis - Angle quai Claude le Lorrain" lat="48.6957176856775" lng="6.17133838702303">
+        <station ID="s17">
+          <available>3</available>
+          <free>12</free>
+          <total>15</total>
+        </station>
+      </marker>
+      <marker name="00005 - PLACE COLONEL DRIANT (CB)" number="5" station="s5" address="Rue Drouin - Face au n&#xB0;2" lat="48.6921301" lng="6.1872695">
+        <station ID="s5">
+          <available>8</available>
+          <free>8</free>
+          <total>16</total>
+        </station>
+      </marker>
+      <marker name="00024 - 3 MAISONS - CHARLES V (CB)" number="24" station="s24" address="rue du faubourg des 3 Maisons - Angle boulevard Charles V" lat="48.701365" lng="6.176824">
+        <station ID="s24">
+          <available>8</available>
+          <free>15</free>
+          <total>23</total>
+        </station>
+      </marker>
+      <marker name="00006 - LES 2 RIVES (CB)" number="6" station="s6" address="2 rue Emilie du Ch&#xE2;telet" lat="48.695420147586" lng="6.19522861327582">
+        <station ID="s6">
+          <available>1</available>
+          <free>15</free>
+          <total>16</total>
+        </station>
+      </marker>
+      <marker name="00009 - PLACE BARROIS (CB)" number="9" station="s9" address="Place Barrois" lat="48.69950232851108" lng="6.204735639873545">
+        <station ID="s9">
+          <available>3</available>
+          <free>14</free>
+          <total>17</total>
+        </station>
+      </marker>
+      <marker name="00007 - PLACE ST EPVRE  (CB)" number="7" station="s7" address="Place du Colonel Fabien" lat="48.6952351" lng="6.1798109">
+        <station ID="s7">
+          <available>6</available>
+          <free>14</free>
+          <total>20</total>
+        </station>
+      </marker>
+      <marker name="00023 - PROMENADE DES CANAUX" number="23" station="s23" address="Promenade des Canaux" lat="48.6927939742599" lng="6.19628435757015">
+        <station ID="s23">
+          <available>0</available>
+          <free>16</free>
+          <total>16</total>
+        </station>
+      </marker>
+      <marker name="00012 - ST SEBASTIEN - ST THIEBAUT (CB)" number="12" station="s12" address="Angle rue Saint-Thiebaut et rue du Grand Rabbin HAGUENAUER" lat="48.6886141256403" lng="6.17950010441818">
+        <station ID="s12">
+          <available>7</available>
+          <free>15</free>
+          <total>22</total>
+        </station>
+      </marker>
+      <marker name="00021 - HOPITAL CENTRAL (CB)" number="21" station="s21" address="45 avenue du Mar&#xE9;chal de Lattre de Tassigny" lat="48.6833502130976" lng="6.19029660801914">
+        <station ID="s21">
+          <available>9</available>
+          <free>11</free>
+          <total>20</total>
+        </station>
+      </marker>
+      <marker name="00019 - COMMANDERIE - CHALNOT" number="19" station="s19" address="Angle rue Pierre CHALNOT et rue de la Commanderie" lat="48.6869197241039" lng="6.17234789239391">
+        <station ID="s19">
+          <available>13</available>
+          <free>5</free>
+          <total>18</total>
+        </station>
+      </marker>
+      <marker name="00016 - PORTE DE LA CRAFFE (CB)" number="16" station="s16" address="Angle rue du Haut Bourgeois et place des Bourgets" lat="48.6984724451821" lng="6.17798553705909">
+        <station ID="s16">
+          <available>1</available>
+          <free>19</free>
+          <total>20</total>
+        </station>
+      </marker>
+      <marker name="00001 - DOMINICAINS - FOURRIER (CB)" number="1" station="s1" address="Angle rue Pierre FOURRIER et rue des Dominicains" lat="48.6924654452072" lng="6.18340055389445">
+        <station ID="s1">
+          <available>12</available>
+          <free>16</free>
+          <total>28</total>
+        </station>
+      </marker>
+      <marker name="00011 - MAZAGRAN - FOCH (CB)" number="11" station="s11" address="Boulevard Foch" lat="48.6894760345252" lng="6.17650546239553">
+        <station ID="s11">
           <available>17</available>
-          <free>13</free>
+          <free>11</free>
+          <total>28</total>
+        </station>
+      </marker>
+      <marker name="00022 - HOPITAL ST JULIEN" number="22" station="s22" address="Angle rue Molitor et rue Foller" lat="48.6858574026886" lng="6.19290171469907">
+        <station ID="s22">
+          <available>6</available>
+          <free>10</free>
+          <total>16</total>
+        </station>
+      </marker>
+      <marker name="00003 - PLACE DE DOMBASLE (CB)" number="3" station="s3" address="Rue Stanislas - Face au n&#xB0;68" lat="48.6919579483934" lng="6.17851021950761">
+        <station ID="s3">
+          <available>14</available>
+          <free>14</free>
+          <total>28</total>
+        </station>
+      </marker>
+      <marker name="00008 - COURS LEOPOLD - SAINT MICHEL (CB)" number="8" station="s8" address="Angle rue Saint-Michel et cours L&#xE9;opold" lat="48.6956140662607" lng="6.17676840786255">
+        <station ID="s8">
+          <available>9</available>
+          <free>9</free>
+          <total>18</total>
+        </station>
+      </marker>
+      <marker name="00002 - PLACE DE LA CARRIERE (CB)" number="2" station="s2" address="Angle Place de la Carri&#xE8;re et rue des Mar&#xE9;chaux" lat="48.6945981637388" lng="6.18229408637817">
+        <station ID="s2">
+          <available>8</available>
+          <free>8</free>
+          <total>16</total>
+        </station>
+      </marker>
+      <marker name="00010 - GARE THIERS (CB)" number="10" station="s10" address="Rue Mazagran" lat="48.69037" lng="6.175677">
+        <station ID="s10">
+          <available>27</available>
+          <free>3</free>
           <total>30</total>
         </station>
       </marker>
